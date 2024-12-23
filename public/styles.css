@@ -1,0 +1,28 @@
+#root {
+    height: 100vh;
+  }
+  .row {
+    max-width: 20rem;
+  }
+  
+  #display-container {
+    text-align: right;
+    color: #fff;
+  }
+  
+  #equals {
+    color: #fff;
+  }
+  
+  .clickable:hover,
+  #clear:hover,
+  #equals:hover {
+    cursor: pointer;
+  }
+  
+  .clickable,
+  #clear,
+  #equals {
+    user-select: none;
+  }
+  
