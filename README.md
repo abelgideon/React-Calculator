@@ -1,6 +1,6 @@
 # React Calculator
 
-This project is part of freeCodeCamp's **Front End Development Libraries** course. The React Calculator allows users to perform basic arithmetic operations through an interactive and responsive interface.
+The React Calculator allows users to perform basic arithmetic operations through an interactive and responsive interface.
 
 ## Features
 
